@@ -36,6 +36,10 @@
 * Zoetrope render script I developed in AnimKit used a technique called "Foreground Rendering" to bypass the restrictions of Arnold and produce a watermark-free render.
 <img align="middle" src="https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/bad_render_example/zoetrope_watermark_free_example.png" alt="bad arnold render">
 
+### Composite Image Sequences to Video using Zoetrope Smart Video Encoder
+* I used the Zoetrope Smart Video Encoder to encode all image sequences in each layers into a video, before I ported it to Premiere.
+* Zoetrope Smart Video Encoder replaces the redundant composing simple renders using Adobe Media Encoder, Premiere, or After Effects by automating the image sequence -> video process.
+
 ### Fixing broken Rig Components using Fix-It-Felix toolbox
 * Rig handles in the rigs I used are built with NURBS surfaces, and they tend to break and glitch.
 * I wrote a fix and placed it in the Fix-It-Felix toolbox in AnimKit to fix this issue.
