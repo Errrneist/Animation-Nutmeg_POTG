@@ -5,7 +5,7 @@
 * This animation used the "Nutmeg" rig by UW Animation Research Labs in the production of "Taking Flight" and props I modeled for the production in "Dazzle!". The original reference comes from the play of the game of the hero "Wrecking Ball" in Overwatch. 
 * I love both characters so much, and thought making Nutmeg do something like Hammond would be super cute.
 
-## Results (Click Image to Play Video)
+## Final Results (Click Image to Play Video)
 ### Reference
 
 <a href="https://errrneist.github.io/Animation-Nutmeg_POTG/videos/hammond-reference.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_reference.PNG)</a>
@@ -36,4 +36,7 @@
 * Zoetrope render script I developed in AnimKit used a technique called "Foreground Rendering" to bypass the restrictions of Arnold and produce a watermark-free render.
 <img align="middle" src="https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/bad_render_example/zoetrope_watermark_free_example.png" alt="bad arnold render">
 
-### Fixing broken Rig Components
+### Fixing broken Rig Components using Fix-It-Felix toolbox
+* Rig handles in the rigs I used are built with NURBS surfaces, and they tend to break and glitch.
+* I wrote a fix and placed it in the Fix-It-Felix toolbox in AnimKit to fix this issue. (Click image to view video).
+<a href="https://errrneist.github.io/Animation-Nutmeg_POTG/videos/nutmeg_fix_broken_nurbs.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_broken_nurbs.PNG)</a>
