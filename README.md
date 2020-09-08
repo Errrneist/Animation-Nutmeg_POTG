@@ -5,7 +5,7 @@
 * This animation used the "Nutmeg" rig by UW Animation Research Labs in the production of "Taking Flight" and props I modeled for the production in "Dazzle!". The original reference comes from the play of the game of the hero "Wrecking Ball" in Overwatch. 
 * I love both characters so much, and thought making Nutmeg do something like Hammond would be super cute.
 
-## Results
+## Results (Click Image to Play Video)
 ### Reference
 
 <a href="https://errrneist.github.io/Animation-Nutmeg_POTG/videos/hammond-reference.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_reference.PNG)</a>
