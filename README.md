@@ -4,7 +4,7 @@
 * Version used: Autodesk Maya 2019 + AnimKit 3.2.
 * This animation used the "Nutmeg" rig by UW Animation Research Labs in the production of "Taking Flight" and props I modeled for the production in "Dazzle!". The original reference comes from the play of the game of the hero "Wrecking Ball" in Overwatch. 
 * I love both characters so much, and thought making Nutmeg do something like Hammond would be super cute.
-* Note this repository does not contain any of the rigs or the probs, they are property of University of Washington Animation Research Labs' property.
+* Note this repository does not contain any of the rigs or the props, they are property of University of Washington Animation Research Labs' property.
 
 ## Final Results
 ### Reference
