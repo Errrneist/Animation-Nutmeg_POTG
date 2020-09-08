@@ -7,15 +7,15 @@
 
 ### Reference
 
-<a href="https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/hammond-reference.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_reference.PNG)</a>
+<a href="https://errrneist.github.io/Animation-Nutmeg_POTG/videos/hammond-reference.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_reference.PNG)</a>
 
 ### PlayBlast
 
-<a href="https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/nutmeg_potg_playblast.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_playblast.PNG)</a>
+<a href="https://errrneist.github.io/Animation-Nutmeg_POTG/videos/nutmeg_potg_playblast.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_playblast.PNG)</a>
 
 ### Final Render
 
-<a href="https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/nutmeg_potg_render.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_render.PNG)</a>
+<a href="https://errrneist.github.io/Animation-Nutmeg_POTG/videos/nutmeg_potg_render.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_render.PNG)</a>
 
 ## AnimKit Features Used in This Project
 ### Playblasting using Playblast+
