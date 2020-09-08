@@ -39,4 +39,5 @@
 ### Fixing broken Rig Components using Fix-It-Felix toolbox
 * Rig handles in the rigs I used are built with NURBS surfaces, and they tend to break and glitch.
 * I wrote a fix and placed it in the Fix-It-Felix toolbox in AnimKit to fix this issue. (Click image to view video).
+
 <a href="https://errrneist.github.io/Animation-Nutmeg_POTG/videos/nutmeg_fix_broken_nurbs.mp4" rel="Reference" width="100">![Ref](https://github.com/Errrneist/Animation-Nutmeg_POTG/blob/master/IMG/thumbnail_broken_nurbs.PNG)</a>
