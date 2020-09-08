@@ -1,4 +1,4 @@
-# Animation-Nutmeg_POTG
+# AnimKit Demo - Nutmeg Play of the Game
 ## Introduction
 * This is a test repository I made to test out how AnimKit works in real world production tasks.
 * Version used: Autodesk Maya 2019 + AnimKit 3.2.
