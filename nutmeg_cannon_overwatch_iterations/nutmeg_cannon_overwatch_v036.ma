@@ -1,6 +1,6 @@
 //Maya ASCII 2022 scene
 //Name: nutmeg_cannon_overwatch.ma
-//Last modified: Sun, Apr 04, 2021 03:02:36 PM
+//Last modified: Sun, Apr 04, 2021 02:50:47 PM
 //Codeset: 1252
 file -rdi 1 -ns "nutmeg" -rfn "nutmegRN" -op "v=0;" -typ "mayaAscii" "Y:/library/maya/rigs/char_rigged/Nutmeg/nutmeg.ma";
 file -rdi 1 -ns "cannon" -rfn "cannonRN" -op "v=0;" -typ "mayaAscii" "Y:/library/maya/props/Cannon/cannon.ma";
@@ -25,7 +25,7 @@ fileInfo "product" "Maya 2022";
 fileInfo "version" "2022";
 fileInfo "cutIdentifier" "202102181415-29bfc1879c";
 fileInfo "osv" "Windows 10 Home v2009 (Build: 19042)";
-fileInfo "UUID" "F68A3ABA-458B-56DB-436A-15B380F7F8BD";
+fileInfo "UUID" "369882AC-4E49-3179-057A-C7A58872C454";
 createNode transform -s -n "persp";
 	rename -uid "C15DD0C1-4609-ED6C-6DC5-74BC06657C0A";
 	setAttr ".t" -type "double3" 235.51784288143858 526.22646937669094 443.73042371031556 ;
